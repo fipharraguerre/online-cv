@@ -198,16 +198,17 @@ certifications:
       Introduction to cybersecurity, focusing on threats, risks, and securing information
       systems against attacks.
 
-  - name: SECOM 2016 - Sistemas de Modulación Ortogonales, Soluciones Indoor 3G
-    start: 2016
-    end:
-    organization: UTN FRC
-    credentialid: N/A
-    credentialurl: N/A
-    credentialname: UTN FRC
-    details: |
-      Course on Orthogonal Modulation Systems and 3G indoor solutions, providing an
-      understanding of radio frequency communication technologies.
+    - name: SECOM 2016 - Sistemas de Modulación Ortogonales, Soluciones Indoor 3G
+      start: 2016
+      # end:
+      organization: UTN FRC
+      credentialid: N/A
+      credentialurl: N/A
+      credentialname: UTN FRC
+      details: |
+        Seminar on Orthogonal Modulation Systems and 3G indoor solutions, providing an
+        insight into radio frequency communication technologies.
+
 
   - name: Introducción al Cómputo de Altas Prestaciones (HPC)
     start: 2013
