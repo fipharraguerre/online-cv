@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -16,7 +16,7 @@ sidebar:
   email: hexaflake@null.net
   phone: +54 351 650 8786
   timezone: America/Argentina/Buenos_Aires # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  citizenship: Argentina
   website: https://home.facundoitest.space # Include the full website URL, including "http://" or "https://".
   linkedin: fipharraguerre
   xing: 
@@ -45,15 +45,15 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Electronics
       link:
 
 
-    - item: Snowboarding
+    - item: Music
       link:
 
 
-    - item: Cooking
+    - item: Chess
       link:
 
 
@@ -119,7 +119,7 @@ experiences:
         - Implemented software solutions for embedded platforms
 
 certifications:
-  title: Certifications
+  title: Certifications and Training
   list:
   - name: AZ-900 - Microsoft Azure Fundamentals
     start: 2025
@@ -312,6 +312,30 @@ projects:
 
       # He is a great employee!
 
+oss:
+  title: Skills
+  intro: >
+    A combination of infrastructure, automation, and development expertise, spanning networking, virtualization, scripting, databases, monitoring, and software methodologies.
+
+  contributions:
+  - title: Infrastructure & Networking
+    tagline: "Network administration, Windows Server (Active Directory, Entra ID), Linux, and Veeam Backup & Replication."
+
+  - title: Virtualization & Containers
+    tagline: "Expertise in VMware ESX, Hyper-V, Proxmox (KVM), Docker (including Swarm), and Linux Containers (LXC) for scalable and flexible deployments."
+
+  - title: Programming & Scripting
+    tagline: "Proficient in Python (automation, data analysis, web apps), Bash, PowerShell, and C for embedded systems."
+
+  - title: Databases & Web Technologies
+    tagline: "Experience with SQL Server, MySQL, MariaDB, MongoDB, Redis, SQLite, and backend development with web servers."
+
+  - title: Monitoring & Reporting
+    tagline: "Building dashboards with Grafana and processing data using Excel for reporting and analytics."
+
+  - title: Methodologies & Soft Skills
+    tagline: "Agile (SCRUM), strong problem-solving, and fluency in Spanish (native) and English (professional/conversational)."
+
 skills:
   title: Skills &amp; Proficiency
 
@@ -333,23 +357,6 @@ skills:
 
   - name: Methodologies and Soft Skills
     level: 70%
-
-oss:
-  title: Skills
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
