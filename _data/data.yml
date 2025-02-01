@@ -13,14 +13,14 @@ sidebar:
   avatar: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: facundo.ipharraguerre@protonmail.com
+  email: hexaflake@null.net
   phone: +54 351 650 8786
-  timezone: America/Argentina/Cordoba # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: America/Argentina/Buenos_Aires # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://home.facundoitest.space # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  linkedin: fipharraguerre
+  xing: 
+  github: fipharraguerre
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -121,43 +121,115 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: AZ-900 - Microsoft Azure Fundamentals
+    start: 2025
     end:
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: Microsoft
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Expected certification. This course provides foundational knowledge of Azure
+      services, cloud concepts, Azure pricing, SLA, and lifecycle.
+  
+  - name: MS-10997 - Office 365 Administration and Troubleshooting
+    start: 2021
+    end:
+    organization: Intertron Education
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: Microsoft
+    details: |
+      Course covering administration and troubleshooting of Office 365 services.
+      Includes managing users, mailboxes, and services such as Teams and SharePoint.
+
+  - name: LPIC-1 - Linux Administrator
+    start: 2020
+    end:
+    organization: ACG
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: Linux Professional Institute
+    details: |
+      Certification focused on basic Linux system administration tasks, including
+      managing file systems, users, and software packages.
+
+  - name: Teledetección SAR
+    start: 2022
+    end:
+    organization: CONAE
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: CONAE
+    details: |
+      Course on Synthetic Aperture Radar (SAR) remote sensing technology, its
+      applications, and data processing methods.
+
+  - name: Introducción a la Compatibilidad Electromagnética
+    start: 2019
+    end:
+    organization: IUA
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: IUA
+    details: |
+      Introduction to Electromagnetic Compatibility (EMC), addressing EMC standards,
+      testing procedures, and design strategies to meet regulatory requirements.
+
+  - name: Conceptos Prácticos para el Diseño de un Sitio de Energía Fotovoltaica-Eólica
+    start: 2019
+    end:
+    organization: IUA
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: IUA
+    details: |
+      Practical concepts for designing hybrid photovoltaic-wind energy systems,
+      focusing on system integration, energy storage, and optimization.
+
+  - name: Introducción a la Seguridad Informática
+    start: 2017
+    end:
+    organization: IUA
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: IUA
+    details: |
+      Introduction to cybersecurity, focusing on threats, risks, and securing information
+      systems against attacks.
+
+  - name: SECOM 2016 - Sistemas de Modulación Ortogonales, Soluciones Indoor 3G
+    start: 2016
+    end:
+    organization: UTN FRC
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: UTN FRC
+    details: |
+      Course on Orthogonal Modulation Systems and 3G indoor solutions, providing an
+      understanding of radio frequency communication technologies.
+
+  - name: Introducción al Cómputo de Altas Prestaciones (HPC)
+    start: 2013
+    end:
+    organization: IUA
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: IUA
+    details: |
+      Introduction to High Performance Computing (HPC), exploring parallel computing
+      techniques and computational clusters for large-scale problems.
+
+  - name: Elementos de Matemática
+    start: 2008
+    end:
+    organization: UNC
+    credentialid: N/A
+    credentialurl: N/A
+    credentialname: UNC
+    details: |
+      Basic mathematics course, covering essential mathematical concepts for engineering
+      and technical applications.
 
 projects:
   title: Projects
