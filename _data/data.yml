@@ -8,23 +8,23 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Facundo Ipharraguerre
+  tagline: B.Sc. Telecommunications Engineer | Sysadmin
+  avatar: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: facundo.ipharraguerre@protonmail.com
+  phone: +54 351 650 8786
+  timezone: America/Argentina/Cordoba # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: https://home.facundoitest.space # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
   xing: alandoe
   github: jekyll
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  twitter: '@jekyllrb'
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,13 +36,10 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Spanish
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
   interests:
@@ -63,78 +60,63 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+      Telecommunications Engineer with expertise in IT infrastructure and software development. 15+ years in Linux, Windows Server, cloud, networking, and automation. Skilled in security, agile methodologies, and virtualization. Fluent in Spanish and professional English.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: B.Sc. in Telecommunications Engineering
+    university: UNDEF - Instituto Universitario Aeronáutico (Córdoba, Argentina)
+    time: 2012 - 2024
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Graduated with a focus on telecommunications, signal processing, and networking.
+      Gained expertise in embedded systems and data transmission technologies.
+        - Final Project: "Sistema Dinámico de Adquisición y Alerta de Velocidad para la Concientización de Conductores Vehiculares" (Dynamic Speed Acquisition and Alert System for Driver Awareness).
+        - Studied advanced topics in digital communications and electronics.
+        - Applied theoretical knowledge to real-world engineering problems.
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: IT Support and Administration
+    time: 2008 - Present
+    company: Self-Employed / Contractor
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Administration and support of IT infrastructure for businesses, including servers, networks, and databases. Expertise in automation, cloud migrations, and security.
+        - Designed and managed wired, wireless, and virtual networks
+        - Collaborated with MSPs to support 10+ nationwide clients
+        - Implemented PBX systems, security cameras, and remote monitoring solutions
+  - role: IT Systems Administrator
+    time: Feb 2020 - Jun 2023
+    company: Dicsys S.A.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Managed IT infrastructure and user support for "Bolsa y Cámara de Cereales de Córdoba." Collaborated with agile teams and ensured system availability.
+        - Administered and monitored servers and networks
+        - Managed AD, Microsoft 365 licensing, and user access
+        - Provided hardware support, troubleshooting, and vendor coordination
+  - role: IT Support Specialist
+    time: Feb 2012 - Mar 2014
+    company: Municipality of Alta Gracia
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Led networking and server administration efforts, improving connectivity and system reliability.
+        - Implemented Ethernet, Wi-Fi, and fiber optic networks
+        - Configured L2TP + IPSec VPNs for secure remote access
+        - Managed Windows Server 2008 R2 and network infrastructure
+  - role: IT Technical Support
+    time: Aug 2013 - Jan 2015; Feb 2010 - Jul 2011
+    company: SEES Computación
+    details: |
+      Provided hardware diagnostics, repair, and customer support for desktops and laptops.
+        - Performed hardware troubleshooting and assembly
+        - Delivered customer support for technical issues
+        - Maintained and repaired computer systems
+  - role: Software Engineering Intern
+    time: Aug 2017 - Dec 2017
+    company: Embedded Systems Lab - IUA
+    details: |
+      Developed embedded systems applications and drivers using C and Python.
+        - Worked with Raspberry Pi expansion boards
+        - Developed and tested low-level drivers
+        - Implemented software solutions for embedded platforms
 
 certifications:
   title: Certifications
