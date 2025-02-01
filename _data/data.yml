@@ -123,7 +123,7 @@ certifications:
   list:
   - name: AZ-900 - Microsoft Azure Fundamentals
     start: 2025
-    end:
+    end: 2025
     organization: Microsoft
     credentialid: N/A
     credentialurl: N/A
@@ -134,7 +134,7 @@ certifications:
   
   - name: MS-10997 - Office 365 Administration and Troubleshooting
     start: 2021
-    end:
+    end: 48 hours
     organization: Intertron Education
     credentialid: N/A
     credentialurl: N/A
@@ -145,7 +145,7 @@ certifications:
 
   - name: LPIC-1 - Linux Administrator
     start: 2020
-    end:
+    end: 2020
     organization: ACG
     credentialid: N/A
     credentialurl: N/A
@@ -156,7 +156,7 @@ certifications:
 
   - name: Teledetección SAR
     start: 2022
-    end:
+    end: 2022
     organization: CONAE
     credentialid: N/A
     credentialurl: N/A
@@ -167,7 +167,7 @@ certifications:
 
   - name: Introducción a la Compatibilidad Electromagnética
     start: 2019
-    end:
+    end: 2019
     organization: IUA
     credentialid: N/A
     credentialurl: N/A
@@ -178,7 +178,7 @@ certifications:
 
   - name: Conceptos Prácticos para el Diseño de un Sitio de Energía Fotovoltaica-Eólica
     start: 2019
-    end:
+    end: 2019
     organization: IUA
     credentialid: N/A
     credentialurl: N/A
@@ -189,7 +189,7 @@ certifications:
 
   - name: Introducción a la Seguridad Informática
     start: 2017
-    end:
+    end: 2017
     organization: IUA
     credentialid: N/A
     credentialurl: N/A
@@ -200,7 +200,7 @@ certifications:
 
     - name: SECOM 2016 - Sistemas de Modulación Ortogonales, Soluciones Indoor 3G
       start: 2016
-      # end:
+      end: 2016
       organization: UTN FRC
       credentialid: N/A
       credentialurl: N/A
@@ -209,28 +209,26 @@ certifications:
         Seminar on Orthogonal Modulation Systems and 3G indoor solutions, providing an
         insight into radio frequency communication technologies.
 
-
   - name: Introducción al Cómputo de Altas Prestaciones (HPC)
     start: 2013
-    end:
+    end: 2013
     organization: IUA
     credentialid: N/A
     credentialurl: N/A
     credentialname: IUA
     details: |
-      Introduction to High Performance Computing (HPC), exploring parallel computing
+      An introduction to High Performance Computing (HPC), exploring parallel computing
       techniques and computational clusters for large-scale problems.
 
   - name: Elementos de Matemática
     start: 2008
-    end:
+    end: 2018
     organization: UNC
     credentialid: N/A
     credentialurl: N/A
     credentialname: UNC
     details: |
-      Basic mathematics course, covering essential mathematical concepts for engineering
-      and technical applications.
+      Basic mathematics course, covering essential mathematical concepts.
 
 projects:
   title: Projects
