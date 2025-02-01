@@ -43,24 +43,25 @@ sidebar:
       level: Professional
 
   interests:
-    title: Interests
+    title: #Interests
     info:
-    - item: Electronics
+    - item: #Electronics
       link:
 
 
-    - item: Music
+    - item: #Music
       link:
 
 
-    - item: Chess
+    - item: #Chess
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-      Telecommunications Engineer with expertise in IT infrastructure and software development. 15+ years in Linux, Windows Server, cloud, networking, and automation. Skilled in security, agile methodologies, and virtualization. Fluent in Spanish and professional English.
+    Telecommunications Engineer with expertise in IT infrastructure and software development. 15+ years in Linux, Windows Server, cloud, networking, and automation. Skilled in security, agile methodologies, and virtualization. Experience working under an ISO 9001 quality management system. Fluent in Spanish (native) and conversational English.
+
 education:
   title: Education
   info:
@@ -233,27 +234,56 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    A collection of technical projects covering networking, automation, monitoring, and development.
+
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: VPN Site-to-Site using Zerotier with bridge on LXC
+    tagline: Demonstrates networking, VPN configuration, and virtualization.
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Installing and Configuring Cloudflared on an LXC
+    tagline: Involves networking, reverse proxy, and cloud services.
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Veeam B&R Reports using PowerShell
+    tagline: Uses PowerShell for Windows and backup management.
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: High Availability and Persistent Storage with Docker Swarm and GlusterFS
+    tagline: Demonstrates high availability and clustering.
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: Receiving and Storing JSON Data in MariaDB using a Flask App
+    tagline: Linux server management with databases and web services.
+
+  - title: Migrating LXC Container from Proxmox to Ubuntu on Hyper-V
+    tagline: Showcases migration between virtualization platforms.
+
+  - title: V2V Migration from Proxmox to Hyper-V
+    tagline: Involves cross-platform virtualization.
+
+  - title: Monitoring CPU Temperature with Zabbix UserParameters
+    tagline: Shows monitoring configuration.
+
+  - title: Graphing UPS Variables in Grafana
+    tagline: Uses monitoring tools to visualize data.
+
+  - title: Displaying Public IP in Grafana Dashboard using Zabbix UserParameters
+    tagline: Involves monitoring and public IP tracking.
+
+  - title: Extracting MERVAL Stock Market Data from HTML and Exporting to CSV
+    tagline: Web scraping and data storage.
+
+  - title: Flashing STM32F103 via UART0
+    tagline: Demonstrates low-level flashing techniques.
+
+  - title: REST API for Storing Veeam B&R Results in MariaDB using PowerShell
+    tagline: Combines automation, databases, and APIs.
+
+  - title: FM Synthesizer for MIDI Files in Python
+    tagline: Showcases digital audio and synthesis.
+
+  - title: Job Post Fetcher App
+    tagline: Demonstrates web scraping and automation.
+
+  - title: Retrieving SQL Server Maintenance Plan Status
+    tagline: Uses PowerShell for SQL maintenance.
 
 # oss:
   # title: OSS Contributions
