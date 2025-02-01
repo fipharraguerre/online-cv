@@ -123,21 +123,21 @@ certifications:
   list:
   - name: AZ-900 - Microsoft Azure Fundamentals
     start: 2025
-    end: 2025
+    end:
     organization: Microsoft
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: Microsoft
     details: |
-      Expected certification. This course provides foundational knowledge of Azure
+      Expected certification. AZ-900 provides foundational knowledge of Azure
       services, cloud concepts, Azure pricing, SLA, and lifecycle.
   
   - name: MS-10997 - Office 365 Administration and Troubleshooting
     start: 2021
-    end: 48 hours
+    end:
     organization: Intertron Education
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: Microsoft
     details: |
       Course covering administration and troubleshooting of Office 365 services.
@@ -145,10 +145,10 @@ certifications:
 
   - name: LPIC-1 - Linux Administrator
     start: 2020
-    end: 2020
+    end:
     organization: ACG
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: Linux Professional Institute
     details: |
       Certification focused on basic Linux system administration tasks, including
@@ -156,10 +156,10 @@ certifications:
 
   - name: Teledetección SAR
     start: 2022
-    end: 2022
+    end:
     organization: CONAE
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: CONAE
     details: |
       Course on Synthetic Aperture Radar (SAR) remote sensing technology, its
@@ -167,10 +167,10 @@ certifications:
 
   - name: Introducción a la Compatibilidad Electromagnética
     start: 2019
-    end: 2019
+    end:
     organization: IUA
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: IUA
     details: |
       Introduction to Electromagnetic Compatibility (EMC), addressing EMC standards,
@@ -178,10 +178,10 @@ certifications:
 
   - name: Conceptos Prácticos para el Diseño de un Sitio de Energía Fotovoltaica-Eólica
     start: 2019
-    end: 2019
+    end:
     organization: IUA
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: IUA
     details: |
       Practical concepts for designing hybrid photovoltaic-wind energy systems,
@@ -189,10 +189,10 @@ certifications:
 
   - name: Introducción a la Seguridad Informática
     start: 2017
-    # end: 2017
+    end:
     organization: IUA
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: IUA
     details: |
       Introduction to cybersecurity, focusing on threats, risks, and securing information
@@ -200,10 +200,10 @@ certifications:
 
   - name: SECOM 2016 - Sistemas de Modulación Ortogonales, Soluciones Indoor 3G
     start: 2016
-    end: 2016
+    end:
     organization: UTN FRC
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: UTN FRC
     details: |
       Seminar on Orthogonal Modulation Systems and 3G indoor solutions, providing an
@@ -211,10 +211,10 @@ certifications:
 
   - name: Introducción al Cómputo de Altas Prestaciones (HPC)
     start: 2013
-    end: 2013
+    end:
     organization: IUA
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: IUA
     details: |
       An introduction to High Performance Computing (HPC), exploring parallel computing
@@ -222,10 +222,10 @@ certifications:
 
   - name: Elementos de Matemática
     start: 2008
-    end: 2018
+    end:
     organization: UNC
-    credentialid: N/A
-    credentialurl: N/A
+    credentialid:
+    credentialurl:
     credentialname: UNC
     details: |
       Basic mathematics course, covering essential mathematical concepts.
