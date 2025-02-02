@@ -296,3 +296,19 @@ p {
     color: $heart;
   }
 }
+
+.lang-switcher {
+    display: inline-block;
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.lang-switcher:hover {
+    background-color: #0056b3;
+}
