@@ -13,14 +13,6 @@ description: Facundo Ipharraguerre - Online Resume
 theme_skin: teal # blue turquoise green berry orange ceramic teal oceanstale
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
-collections:
-  en:
-    output: true
-    permalink: /:collection/:path/
-  es:
-    output: true
-    permalink: /es/:collection/:path/
-
 # Tracker
 # analytics: UA-83979019-1
 
