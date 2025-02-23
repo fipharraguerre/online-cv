@@ -4,14 +4,17 @@
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<!--[if !IE]><!--> <html lang="{{ page.collection }}"> <!--<![endif]-->
 {% include head.html %}
 
 <body>
+  {% assign lang = page.collection %}
+
   <div class="wrapper">
     {% include sidebar.html %}
 
     <div class="main-wrapper">
+        <h1>{{ site.data.data[lang].name }}</h1> <!-- Example usage -->
         {{ content }}
     </div>
   </div>
@@ -20,6 +23,5 @@
 
 {% include scripts.html %}
 </body>
-
 </html>
 
