@@ -1,0 +1,392 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Facundo Ipharraguerre
+  tagline: Ingeniero en Telecomunicaciones | Sysadmin
+  avatar: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: hexaflake@null.net
+  phone: +54 351 650 8786
+  timezone: America/Argentina/Buenos_Aires # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Argentina
+  website: https://home.facundoitest.space # Include the full website URL, including "http://" or "https://".
+  linkedin: fipharraguerre
+  xing: 
+  github: fipharraguerre
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Languages
+    info:
+    - idiom: Spanish
+      level: Native
+
+    - idiom: English
+      level: Professional
+
+  interests:
+    title: #Interests
+    info:
+    - item: #Electronics
+      link:
+
+
+    - item: #Music
+      link:
+
+
+    - item: #Chess
+      link:
+
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Telecommunications Engineer with expertise in IT infrastructure and software development. 15+ years in Linux, Windows Server, cloud, networking, and automation. Skilled in security, agile methodologies, and virtualization. Experience working under an ISO 9001 quality management system. Fluent in Spanish (native) and conversational English.
+
+education:
+  title: Education
+  info:
+  - degree: B.Sc. in Telecommunications Engineering
+    university: UNDEF - Instituto Universitario Aeronáutico (Córdoba, Argentina)
+    time: 2012 - 2024
+    details: |
+      Graduated with a focus on telecommunications, signal processing, and networking.
+      Gained expertise in embedded systems and data transmission technologies.
+        - Final Project: "Sistema Dinámico de Adquisición y Alerta de Velocidad para la Concientización de Conductores Vehiculares" (Dynamic Speed Acquisition and Alert System for Driver Awareness).
+        - Studied advanced topics in digital communications and electronics.
+        - Applied theoretical knowledge to real-world engineering problems.
+
+experiences:
+  title: Experiences
+  info:
+  - role: IT Support and Administration
+    time: 2008 - Present
+    company: Self-Employed / Contractor
+    details: |
+      Administration and support of IT infrastructure for businesses, including servers, networks, and databases. Expertise in automation, cloud migrations, and security.
+        - Designed and managed wired, wireless, and virtual networks
+        - Collaborated with MSPs to support 10+ nationwide clients
+        - Implemented PBX systems, security cameras, and remote monitoring solutions
+  - role: IT Systems Administrator
+    time: Feb 2020 - Jun 2023
+    company: Dicsys S.A.
+    details: |
+      Managed IT infrastructure and user support for "Bolsa y Cámara de Cereales de Córdoba." Collaborated with agile teams and ensured system availability.
+        - Administered and monitored servers and networks
+        - Managed AD, Microsoft 365 licensing, and user access
+        - Provided hardware support, troubleshooting, and vendor coordination
+  - role: IT Support Specialist
+    time: Feb 2012 - Mar 2014
+    company: Municipality of Alta Gracia
+    details: |
+      Led networking and server administration efforts, improving connectivity and system reliability.
+        - Implemented Ethernet, Wi-Fi, and fiber optic networks
+        - Configured L2TP + IPSec VPNs for secure remote access
+        - Managed Windows Server 2008 R2 and network infrastructure
+  - role: IT Technical Support
+    time: Aug 2013 - Jan 2015; Feb 2010 - Jul 2011
+    company: SEES Computación
+    details: |
+      Provided hardware diagnostics, repair, and customer support for desktops and laptops.
+        - Performed hardware troubleshooting and assembly
+        - Delivered customer support for technical issues
+        - Maintained and repaired computer systems
+  - role: Software Engineering Intern
+    time: Aug 2017 - Dec 2017
+    company: Embedded Systems Lab - IUA
+    details: |
+      Developed embedded systems applications and drivers using C and Python.
+        - Worked with Raspberry Pi expansion boards
+        - Developed and tested low-level drivers
+        - Implemented software solutions for embedded platforms
+
+certifications:
+  title: Certifications and Training
+  list:
+  - name: AZ-900 - Microsoft Azure Fundamentals
+    start: 2025
+    end:
+    organization: Microsoft
+    credentialid:
+    credentialurl:
+    credentialname: Microsoft
+    details: |
+      Expected certification. AZ-900 provides foundational knowledge of Azure
+      services, cloud concepts, Azure pricing, SLA, and lifecycle.
+  
+  - name: MS-10997 - Office 365 Administration and Troubleshooting
+    start: 2021
+    end:
+    organization: Intertron Education
+    credentialid:
+    credentialurl:
+    credentialname: Microsoft
+    details: |
+      Course covering administration and troubleshooting of Office 365 services.
+      Includes managing users, mailboxes, and services such as Teams and SharePoint.
+
+  - name: LPIC-1 - Linux Administrator
+    start: 2020
+    end:
+    organization: ACG
+    credentialid:
+    credentialurl:
+    credentialname: Linux Professional Institute
+    details: |
+      Certification focused on basic Linux system administration tasks, including
+      managing file systems, users, and software packages.
+
+  - name: Teledetección SAR
+    start: 2022
+    end:
+    organization: CONAE
+    credentialid:
+    credentialurl:
+    credentialname: CONAE
+    details: |
+      Course on Synthetic Aperture Radar (SAR) remote sensing technology, its
+      applications, and data processing methods.
+
+  - name: Introducción a la Compatibilidad Electromagnética
+    start: 2019
+    end:
+    organization: IUA
+    credentialid:
+    credentialurl:
+    credentialname: IUA
+    details: |
+      Introduction to Electromagnetic Compatibility (EMC), addressing EMC standards,
+      testing procedures, and design strategies to meet regulatory requirements.
+
+  - name: Conceptos Prácticos para el Diseño de un Sitio de Energía Fotovoltaica-Eólica
+    start: 2019
+    end:
+    organization: IUA
+    credentialid:
+    credentialurl:
+    credentialname: IUA
+    details: |
+      Practical concepts for designing hybrid photovoltaic-wind energy systems,
+      focusing on system integration, energy storage, and optimization.
+
+  - name: Introducción a la Seguridad Informática
+    start: 2017
+    end:
+    organization: IUA
+    credentialid:
+    credentialurl:
+    credentialname: IUA
+    details: |
+      Introduction to cybersecurity, focusing on threats, risks, and securing information
+      systems against attacks.
+
+  - name: SECOM 2016 - Sistemas de Modulación Ortogonales, Soluciones Indoor 3G
+    start: 2016
+    end:
+    organization: UTN FRC
+    credentialid:
+    credentialurl:
+    credentialname: UTN FRC
+    details: |
+      Seminar on Orthogonal Modulation Systems and 3G indoor solutions, providing an
+      insight into radio frequency communication technologies.
+
+  - name: Introducción al Cómputo de Altas Prestaciones (HPC)
+    start: 2013
+    end:
+    organization: IUA
+    credentialid:
+    credentialurl:
+    credentialname: IUA
+    details: |
+      An introduction to High Performance Computing (HPC), exploring parallel computing
+      techniques and computational clusters for large-scale problems.
+
+  - name: Elementos de Matemática
+    start: 2008
+    end:
+    organization: UNC
+    credentialid:
+    credentialurl:
+    credentialname: UNC
+    details: |
+      Basic mathematics course, covering essential mathematical concepts.
+
+projects:
+  title: Projects
+  intro: >
+    A collection of technical projects covering networking, automation, monitoring, and development.
+
+  assignments:
+  - title: VPN Site-to-Site using Zerotier with bridge on LXC
+    tagline: Demonstrates networking, VPN configuration, and virtualization.
+
+  - title: Installing and Configuring Cloudflared on an LXC
+    tagline: Involves networking, reverse proxy, and cloud services.
+
+  - title: Veeam B&R Reports using PowerShell
+    tagline: Uses PowerShell for Windows and backup management.
+
+  - title: High Availability and Persistent Storage with Docker Swarm and GlusterFS
+    tagline: Demonstrates high availability and clustering.
+
+  - title: Receiving and Storing JSON Data in MariaDB using a Flask App
+    tagline: Linux server management with databases and web services.
+
+  - title: Migrating LXC Container from Proxmox to Ubuntu on Hyper-V
+    tagline: Showcases migration between virtualization platforms.
+
+  - title: V2V Migration from Proxmox to Hyper-V
+    tagline: Involves cross-platform virtualization.
+
+  - title: Monitoring CPU Temperature with Zabbix UserParameters
+    tagline: Shows monitoring configuration.
+
+  - title: Graphing UPS Variables in Grafana
+    tagline: Uses monitoring tools to visualize data.
+
+  - title: Displaying Public IP in Grafana Dashboard using Zabbix UserParameters
+    tagline: Involves monitoring and public IP tracking.
+
+  - title: Extracting MERVAL Stock Market Data from HTML and Exporting to CSV
+    tagline: Web scraping and data storage.
+
+  - title: Flashing STM32F103 via UART0
+    tagline: Demonstrates low-level flashing techniques.
+
+  - title: REST API for Storing Veeam B&R Results in MariaDB using PowerShell
+    tagline: Combines automation, databases, and APIs.
+
+  - title: FM Synthesizer for MIDI Files in Python
+    tagline: Showcases digital audio and synthesis.
+
+  - title: Job Post Fetcher App
+    tagline: Demonstrates web scraping and automation.
+
+  - title: Retrieving SQL Server Maintenance Plan Status
+    tagline: Uses PowerShell for SQL maintenance.
+
+# oss:
+  # title: OSS Contributions
+  # intro: >
+    # You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  # contributions:
+  # - title: Tempo
+    # link: "#"
+    # tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+  # - title: Atom
+    # link: "#"
+    # tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+  # - title: Delta
+    # link: "#"
+    # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+  # title: Publications
+  # intro: |
+    # You can list your publications in this section. Lorem ipsum dolor sit
+    # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    # bibendum fringilla a eu lectus.
+  # papers:
+  # - title: The Art of Computer Programming
+    # link: "#"
+    # authors: Donald E. Knuth
+    # conference: Addison-Wesley, 1968
+
+  # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    # link: "#"
+    # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+  # - title: A syntax directed compiler for Algol 60
+    # link: "#"
+    # authors: Edgar T. Irons
+    # conference: "Comm. ACM 4 (1961), 51–55"
+
+# recommendations:
+  # title: Recommendations
+  # list:
+  # - person: Yareli Perez
+    # email: perezyareli@example.com
+    # phone: 012 345 6789
+    # role: General Director at example.com
+    # recommendation: |
+      # Alan Doe is a super employee!
+  # - person: Lara Henderson
+    # email: larah@example.com
+    # phone: 012 345 6789
+    # role: General Director at example.com
+    # recommendation: |
+      # I would like to work with Alan Doe again!
+
+      # He is a great employee!
+
+oss:
+  title: Skills
+  intro: >
+    A combination of infrastructure, automation, and development expertise, spanning networking, virtualization, scripting, databases, monitoring, and software methodologies.
+
+  contributions:
+  - title: Infrastructure & Networking
+    tagline: "Network administration, Windows Server (Active Directory, Entra ID), Linux, and Veeam Backup & Replication."
+
+  - title: Virtualization & Containers
+    tagline: "Expertise in VMware ESX, Hyper-V, Proxmox (KVM), Docker (including Swarm), and Linux Containers (LXC) for scalable and flexible deployments."
+
+  - title: Programming & Scripting
+    tagline: "Proficient in Python (automation, data analysis, web apps), Bash, PowerShell, and C for embedded systems."
+
+  - title: Databases & Web Technologies
+    tagline: "Experience with SQL Server, MySQL, MariaDB, MongoDB, Redis, SQLite, and backend development with web servers."
+
+  - title: Monitoring & Reporting
+    tagline: "Building dashboards with Grafana and processing data using Excel for reporting and analytics."
+
+  - title: Methodologies & Soft Skills
+    tagline: "Agile (SCRUM), strong problem-solving, and fluency in Spanish (native) and English (professional/conversational)."
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+  - name: Infrastructure and Networking
+    level: 85%
+
+  - name: Virtualization and Containers
+    level: 90%
+
+  - name: Programming and Scripting
+    level: 90%
+
+  - name: Databases and Web Technologies
+    level: 85%
+
+  - name: Monitoring and Reporting
+    level: 80%
+
+  - name: Methodologies and Soft Skills
+    level: 70%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

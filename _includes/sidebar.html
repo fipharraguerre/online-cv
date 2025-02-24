@@ -1,4 +1,8 @@
-{% assign sidebar = site.data.data.sidebar %}
+<!--//{% assign sidebar = site.data.data.sidebar %}-->
+{% assign lang = page.collection | default: "en" %}
+{% assign sidebar = site.data[lang].sidebar %}
+
+
 <div class="sidebar-wrapper">
 
   <div class="profile-container">
