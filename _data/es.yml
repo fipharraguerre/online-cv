@@ -42,21 +42,6 @@ sidebar:
     - idiom: English
       level: Professional
 
-  interests:
-    title: #Interests
-    info:
-    - item: #Electronics
-      link:
-
-
-    - item: #Music
-      link:
-
-
-    - item: #Chess
-      link:
-
-
 career-profile:
   title: Career Profile
   summary: |
